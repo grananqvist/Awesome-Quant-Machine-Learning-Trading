@@ -19,8 +19,6 @@ I have excluded any kind of resources that we consider to be of low quality.
 
 ## Online series and courses
 
-* Sentdex Youtube channel - Machine Learning for Forex and Stock analysis and algorithmic trading [[Link]](https://www.youtube.com/watch?v=v_L9jR8P-54&list=PLQVvvaa0QuDe6ZBtkCNWNUbdaBo2vA4RO)
-* Sentdex Youtube channel - Python programming for Finance (a few videos including Machine Learning) [[Link]](https://www.youtube.com/watch?v=Z-5wNWgRJpk&index=9&list=PLQVvvaa0QuDcOdF96TBtRtuQksErCEBYZ)
 * Udacity, Georgia Tech - Machine Learning for Trading [[Link]](https://eu.udacity.com/course/machine-learning-for-trading--ud501)
 
 * Coursera, NYU - Machine Learning and Reinforcement Learning in Finance Specialization (Weakly related to trading)
@@ -29,7 +27,18 @@ I have excluded any kind of resources that we consider to be of low quality.
   * Coursera, NYU - Reinforcement Learning in Finance [[Link]](https://www.coursera.org/learn/reinforcement-learning-in-finance)
   * Coursera, NYU - Overview of Advanced Methods for Reinforcement Learning in Finance [[Link]](https://www.coursera.org/learn/advanced-methods-reinforcement-learning-finance)
 
-## Single video clips
+## Youtube videos
+* :star: Siraj Raval - Videos about stock market prediction using Deep Learning [[Link]](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/search?query=trading)
+* QuantInsti Youtube - webinars about Machine Learning for trading [[Link]](https://www.youtube.com/user/quantinsti/search?query=machine+learning)
+* :star: Quantopian - Webinars about Machine Learning for trading [[Link]](https://www.youtube.com/channel/UC606MUq45P3zFLa4VGKbxsg/search?query=machine+learning)
+* Sentdex - Machine Learning for Forex and Stock analysis and algorithmic trading [[Link]](https://www.youtube.com/watch?v=v_L9jR8P-54&list=PLQVvvaa0QuDe6ZBtkCNWNUbdaBo2vA4RO)
+* Sentdex - Python programming for Finance (a few videos including Machine Learning) [[Link]](https://www.youtube.com/watch?v=Z-5wNWgRJpk&index=9&list=PLQVvvaa0QuDcOdF96TBtRtuQksErCEBYZ)
+* QuantNews - Machine Learning for Algorithmic Trading 3 part series [[Link]](https://www.youtube.com/playlist?list=PLHJACfjILJ-91qkw5YC83S6COKGscctzz)
+* :star: Howard Bandy - Machine Learning Trading System Development Webinar [[Link]](https://www.youtube.com/watch?v=v729evhMpYk&t=1s)
+* Ernie Chan - Machine Learning for Quantitative Trading Webinar [[Link]](https://www.youtube.com/watch?v=72aEDjwGMr8&t=1023s)
+* Hitoshi Harada, CTO at Alpaca - Deep Learning in Finance Talk [[Link]](https://www.youtube.com/watch?v=FoQKCeDuPiY)
+* Prediction Machines - Deep Learning with Python in Finance Talk [[Link]](https://www.youtube.com/watch?v=xvm-M-R2fZY)
+* Master Thesis presentation, Uni of Essex - Analyzing the Limit Order Book, A Deep Learning Approach [[Link]](https://www.youtube.com/watch?v=qxSh2VFmRGw)
 
 ## Blogs and content websites
 * :star: Quantstart - Machine Learning for Trading articles [[Link]](https://www.quantstart.com/articles)
@@ -48,10 +57,12 @@ I have excluded any kind of resources that we consider to be of low quality.
 * :star: Better System Trader EP028 - David Aronson shares research into indicators that identify Bull and Bear markets. [[Link]](https://www.youtube.com/watch?v=Q4rV0Y9NokI)
 * Better System Trader EP082 - Machine Learning With Kris Longmore [[Link]](https://www.youtube.com/watch?v=0syNgsd635M)
 * :star: Better System Trader EP064 - Cryptocurrencies and Machine Learning with Bert Mouler [[Link]](https://www.youtube.com/watch?v=YgRTd4nLJoU)
+* Better System Trader EP090 - This quants’ approach to designing algo strategies with Michael Halls-Moore [[Link]](https://chatwithtraders.com/ep-090-michael-halls-moore/)
 
 ## Papers
 * :star: James Cumming - An Investigation into the Use of Reinforcement Learning Techniques within the Algorithmic Trading Domain [[Link]](http://www.doc.ic.ac.uk/teaching/distinguished-projects/2015/j.cumming.pdf)
 * :star: Marcos López de Prado - The 10 reasons most Machine Learning Funds fails [[Link]](http://www.smallake.kr/wp-content/uploads/2018/07/SSRN-id3104816.pdf)
+* J.W. Leung, Master Thesis, MIT - Application of Machine Learning: Automated Trading Informed by Event Driven Data [[Link]](https://dspace.mit.edu/bitstream/handle/1721.1/105982/965785890-MIT.pdf?sequence=1)
 * Arthur le Calvez, Dave Cliff - Deep Learning can Replicate Adaptive Traders in a Limit-Order-Book Financial Market [[Link]](https://arxiv.org/abs/1811.02880)
 
 
