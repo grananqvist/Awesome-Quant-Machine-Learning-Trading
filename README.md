@@ -11,6 +11,7 @@ I have excluded any kind of resources that we consider to be of low quality.
 * :star: Marcos López de Prado - Advances in Financial Machine Learning [[Link]](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos-ebook/dp/B079KLDW21/ref=sr_1_1?s=books&ie=UTF8&qid=1541717436&sr=1-1).
 * :star: Dr Howard B Bandy - Quantitative Technical Analysis: An integrated approach to trading system development and trading management [[Link]](https://www.amazon.com/Quantitative-Technical-Analysis-integrated-development/dp/0979183855/ref=sr_1_1?s=books&ie=UTF8&qid=1541718134&sr=1-1)
 * Tony Guida - Big Data and Machine Learning in Quantitative Investment [[Link]](https://www.amazon.com/Machine-Learning-Quantitative-Investment-Finance/dp/1119522196/ref=sr_1_1?s=books&ie=UTF8&qid=1541717791&sr=1-1)
+* :star: Michael Halls-Moore - Advanced Algorithmic Trading [[Link]](https://www.quantstart.com/advanced-algorithmic-trading-ebook)
 * Jannes Klaas - Machine Learning for Finance: Data algorithms for the markets and deep learning from the ground up for financial experts and economics [[Link]](https://www.amazon.com/Machine-Learning-Finance-algorithms-financial-ebook/dp/B07BDK6LF9/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1541717605&sr=1-1)
 * Stefan Jansen - Hands-On Machine Learning for Algorithmic Trading: Design and implement smart investment strategies to analyze market behavior using the Python ecosystem [[Link]](https://www.amazon.com/Hands-Machine-Learning-Algorithmic-Trading-ebook/dp/B07JLFH7C5/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1541717705&sr=1-1)
 * Ali N. Akansu et al. - Financial Signal Processing and Machine Learning [[Link]](https://www.amazon.com/Financial-Signal-Processing-Machine-Learning/dp/1118745671/ref=sr_1_1?s=books&ie=UTF8&qid=1541718070&sr=1-1)
@@ -21,13 +22,21 @@ I have excluded any kind of resources that we consider to be of low quality.
 * Sentdex Youtube channel - Machine Learning for Forex and Stock analysis and algorithmic trading [[Link]](https://www.youtube.com/watch?v=v_L9jR8P-54&list=PLQVvvaa0QuDe6ZBtkCNWNUbdaBo2vA4RO)
 * Sentdex Youtube channel - Python programming for Finance (a few videos including Machine Learning) [[Link]](https://www.youtube.com/watch?v=Z-5wNWgRJpk&index=9&list=PLQVvvaa0QuDcOdF96TBtRtuQksErCEBYZ)
 * Udacity, Georgia Tech - Machine Learning for Trading [[Link]](https://eu.udacity.com/course/machine-learning-for-trading--ud501)
-* Udacity, WorldQuant - Artificial Intelligence for Trading nanodegree [[Link]](https://eu.udacity.com/course/ai-for-trading--nd880)
 
 * Coursera, NYU - Machine Learning and Reinforcement Learning in Finance Specialization (Weakly related to trading)
   * Coursera, NYU - Guided Tour of Machine Learning in Finance [[Link]](https://www.coursera.org/learn/guided-tour-machine-learning-finance)
   * Coursera, NYU - Fundamentals of Machine Learning in Finance [[Link]](https://www.coursera.org/learn/fundamentals-machine-learning-in-finance)
   * Coursera, NYU - Reinforcement Learning in Finance [[Link]](https://www.coursera.org/learn/reinforcement-learning-in-finance)
   * Coursera, NYU - Overview of Advanced Methods for Reinforcement Learning in Finance [[Link]](https://www.coursera.org/learn/advanced-methods-reinforcement-learning-finance)
+
+## Single video clips
+
+## Blogs and content websites
+* :star: Quantstart - Machine Learning for Trading articles [[Link]](https://www.quantstart.com/articles)
+* :star: Quantopian - Lecture notebooks on ML-related statistics [[Link]](https://www.quantopian.com/lectures)
+* :star: Quantopian - Tutorials and notebooks tagged with Machine Learning [[Link]](https://www.quantopian.com/posts/tag/machine-learning/newest?attachment=notebooks)
+* AAA Quants, Tom Starke Blog [[Link]](http://aaaquants.com/category/blog/)
+* RobotWealth, Kris Longmore Blog [[Link]](https://robotwealth.com/blog/)
 
 ## Interviews
 * :star: Chat with Traders EP042 - Machine learning for algorithmic trading with Bert Mouler [[Link]](https://www.youtube.com/watch?v=i8FNO8r7PaE)
@@ -41,11 +50,16 @@ I have excluded any kind of resources that we consider to be of low quality.
 * :star: Better System Trader EP064 - Cryptocurrencies and Machine Learning with Bert Mouler [[Link]](https://www.youtube.com/watch?v=YgRTd4nLJoU)
 
 ## Papers
-
+* :star: James Cumming - An Investigation into the Use of Reinforcement Learning Techniques within the Algorithmic Trading Domain [[Link]](http://www.doc.ic.ac.uk/teaching/distinguished-projects/2015/j.cumming.pdf)
+* :star: Marcos López de Prado - The 10 reasons most Machine Learning Funds fails [[Link]](http://www.smallake.kr/wp-content/uploads/2018/07/SSRN-id3104816.pdf)
 * Arthur le Calvez, Dave Cliff - Deep Learning can Replicate Adaptive Traders in a Limit-Order-Book Financial Market [[Link]](https://arxiv.org/abs/1811.02880)
-## Code
-### Reinforcement Learning environments
+
+
+## Reinforcement Learning environments
 * :star: TradingGym [[Link]](https://github.com/Yvictor/TradingGym)
 * Trading-Gym [[Link]](https://github.com/thedimlebowski/Trading-Gym)
 * btym [[Link]](https://github.com/Kismuz/btgym)
 * TradzQAI [[Link]](https://github.com/kkuette/TradzQAI)
+
+## Code
+* marketneutral - pairs trading with ML [[Link]](https://github.com/marketneutral/pairs-trading-with-ML)
