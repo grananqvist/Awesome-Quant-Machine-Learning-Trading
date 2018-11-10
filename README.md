@@ -79,6 +79,7 @@ I have excluded any kind of resources that we consider to be of low quality.
 * Ehsan Hoseinzade et al. - CNNPred: CNN-based stock market prediction using several data sources [[Link]](https://arxiv.org/pdf/1810.08923.pdf)
 * Hyejung Chung et al. - Genetic Algorithm-Optimized Long Short-Term Memory Network for Stock Market Prediction [[Link]](https://www.mdpi.com/2071-1050/10/10/3765/pdf)
 * Yujin Baek et al. - ModAugNet: A new forecasting framework for stock market index value with an overfitting prevention LSTM module and a prediction LSTM module [[Link]](https://www.sciencedirect.com/science/article/pii/S0957417418304342)
+* Frank Z. Xing et al. - Natural language based financial forecasting: a survey [[Link]](http://sentic.net/natural-language-based-financial-forecasting.pdf)
 
 
 
