@@ -63,16 +63,31 @@ I have excluded any kind of resources that we consider to be of low quality.
 ## Papers
 * :star: James Cumming - An Investigation into the Use of Reinforcement Learning Techniques within the Algorithmic Trading Domain [[Link]](http://www.doc.ic.ac.uk/teaching/distinguished-projects/2015/j.cumming.pdf)
 * :star: Marcos López de Prado - The 10 reasons most Machine Learning Funds fails [[Link]](http://www.smallake.kr/wp-content/uploads/2018/07/SSRN-id3104816.pdf)
+* Gordon Ritter - Machine Learning for Trading [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3015609)
+* J.B. Heaton et al. - Deep Learning for Finance: Deep Portfolios [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2838013)
+* Justin Sirignano et al. - Universal Features of Price Formation in Financial Markets: Perspectives From Deep Learning [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3141294)
+* Marcial Messmer - Deep Learning and the Cross-Section of Expected Returns [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3081555)
+* :star: Marcos Lopez de Prado - Ten Financial Applications of Machine Learning (Presentation Slides) [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3197726)
+* :star: Marcos Lopez de Prado - The Myth and Reality of Financial Machine Learning (Presentation Slides) [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3120557)
+* Artur Sepp - Machine Learning for Volatility Trading (Presentation Slides) [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3186401)
+* Marcos Lopez de Prado - Market Microstructure in the Age of Machine Learning [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3193702)
+* Jonathan Brogaard - Machine Learning and the Stock Market [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3233119)
+* Xinyao Qian - Financial Series Prediction: Comparison Between Precision of Time Series Models and Machine Learning Methods [[Link]](https://arxiv.org/pdf/1706.00948.pdf)
+* Milan Fičura - Forecasting Foreign Exchange Rate Movements with k-Nearest-Neighbour, Ridge Regression and Feed-Forward Neural Networks [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2903547)
+* Samuel Edet - Recurrent Neural Networks in Forecasting S&P 500 Index [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3001046)
+Amin Hedayati et al. - Stock Market Index Prediction Using Artificial Neural Network [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3004032)
+* Jaydip Sen et al. - A Robust Predictive Model for Stock Price Forecasting [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3068204)
+*  O.B. Sezer et al. - An Artificial Neural Network-based Stock Trading System Using Technical Analysis and Big Data Framework [[Link]](https://dl.acm.org/citation.cfm?id=3077294)
+* Ritika Singh et al. - Stock prediction using deep learning [[Link]](https://link.springer.com/article/10.1007/s11042-016-4159-7)
+* Thomas Fischera et al. - Deep learning with long short-term memory networks for financial market predictions [[Link]](https://www.econstor.eu/bitstream/10419/157808/1/886576210.pdf)
 * R.C.Cavalcante et al. - Computational Intelligence and Financial Markets: A Survey and Future Directions [[Link]](https://www.sciencedirect.com/science/article/pii/S095741741630029X)
 * E. Chong et al. - Deep Learning Networks for Stock Market Analysis and Prediction: Methodology, Data Representations, and Case Studies [[Link]](http://dro.dur.ac.uk/21533/1/21533.pdf)
 * Chien Yi Huang - Financial Trading as a Game: A Deep Reinforcement Learning Approach [[Link]](https://arxiv.org/pdf/1807.02787.pdf)
 * W. Bao et al. - A deep learning framework for financial time series using stacked autoencoders and longshort term memory [[Link]](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0180944&type=printable)
 * Xingyu Zhou et al. - Stock Market Prediction on High-Frequency Data Using Generative Adversarial Nets [[Link]](http://downloads.hindawi.com/journals/mpe/2018/4907423.pdf)
 * Fuli Feng et al. - Improving Stock Movement Prediction with Adversarial Training [[Link]](https://arxiv.org/pdf/1810.09936.pdf)
-* J.W. Leung, Master Thesis, MIT - Application of Machine Learning: Automated Trading Informed by Event Driven Data [[Link]](https://dspace.mit.edu/bitstream/handle/1721.1/105982/965785890-MIT.pdf?sequence=1)
 * Z. Zhao et al. - Time-Weighted LSTM Model with Redefined Labeling for Stock Trend Prediction [[Link]](https://ieeexplore.ieee.org/abstract/document/8372087)
 * Arthur le Calvez, Dave Cliff - Deep Learning can Replicate Adaptive Traders in a Limit-Order-Book Financial Market [[Link]](https://arxiv.org/abs/1811.02880)
-* Xiao Ding et al. - Deep Learning for Event-Driven Stock Prediction [[Link]](http://www.aaai.org/ocs/index.php/IJCAI/IJCAI15/paper/download/11031/10986)
 * Dang Lien Minh et al. - Deep Learning Approach for Short-Term Stock Trends Prediction Based on Two-Stream Gated Recurrent Unit Network [[Link]](https://ieeexplore.ieee.org/abstract/document/8456512)
 * Yue Deng et al. - Deep Direct Reinforcement Learning for Financial Signal Representation and Trading [[Link]](http://cslt.riit.tsinghua.edu.cn/mediawiki/images/a/aa/07407387.pdf)
 * Xiao Zhong - A comprehensive cluster and classification mining procedure for daily stock market return forecasting [[Link]](https://www.sciencedirect.com/science/article/pii/S0925231217310652)
@@ -80,11 +95,15 @@ I have excluded any kind of resources that we consider to be of low quality.
 * Ehsan Hoseinzade et al. - CNNPred: CNN-based stock market prediction using several data sources [[Link]](https://arxiv.org/pdf/1810.08923.pdf)
 * Hyejung Chung et al. - Genetic Algorithm-Optimized Long Short-Term Memory Network for Stock Market Prediction [[Link]](https://www.mdpi.com/2071-1050/10/10/3765/pdf)
 * Yujin Baek et al. - ModAugNet: A new forecasting framework for stock market index value with an overfitting prevention LSTM module and a prediction LSTM module [[Link]](https://www.sciencedirect.com/science/article/pii/S0957417418304342)
+* Rajashree Dash et al. - A hybrid stock trading framework integrating technical analysis with machine learning techniques [[Link]](https://www.sciencedirect.com/science/article/pii/S2405918815300179)
+* E.A. Gerlein et al. - Evaluating machine learning classification for financial trading: an empirical approach [[Link]](http://nrl.northumbria.ac.uk/34544/1/Evaluating%20machine%20learning.pdf)
+* Justin Sirignano - Deep Learning for Limit Order Books [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2710331)
+
+### Events & Sentiment trading
 * Frank Z. Xing et al. - Natural language based financial forecasting: a survey [[Link]](http://sentic.net/natural-language-based-financial-forecasting.pdf)
-
-
-
-
+* Ziniu Hu et al. - Listening to Chaotic Whispers: A Deep Learning Framework for News-oriented Stock Trend Prediction [[Link]](https://arxiv.org/abs/1712.02136v1)
+* J.W. Leung, Master Thesis, MIT - Application of Machine Learning: Automated Trading Informed by Event Driven Data [[Link]](https://dspace.mit.edu/bitstream/handle/1721.1/105982/965785890-MIT.pdf?sequence=1)
+* Xiao Ding et al. - Deep Learning for Event-Driven Stock Prediction [[Link]](http://www.aaai.org/ocs/index.php/IJCAI/IJCAI15/paper/download/11031/10986)
 
 
 ## Reinforcement Learning environments
