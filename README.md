@@ -19,6 +19,7 @@ I have excluded any kind of resources that I consider to be of low quality.
 * David Aronson - Statistically Sound Machine Learning for Algorithmic Trading of Financial Instruments [[Link]](https://www.amazon.com/Statistically-Learning-Algorithmic-Financial-Instruments/dp/148950771X/ref=sr_1_3?s=books&ie=UTF8&qid=1541718293&sr=1-3)
 
 ## Online series and courses
+The selection of online courses for ML for trading is very poor in my opinion.  
 
 * Udacity, Georgia Tech - Machine Learning for Trading [[Link]](https://eu.udacity.com/course/machine-learning-for-trading--ud501)
 
