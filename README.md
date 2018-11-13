@@ -1,7 +1,7 @@
-# Awesome-Quant-And-ML-Trading
-Quant/Algorithm trading resources with an emphasis on Machine Learning and relevant Python code. 
+# Awesome-Quant-Machine-Learning-Trading
+Quant/Algorithm trading resources with an emphasis on Machine Learning. 
 
-I have excluded any kind of resources that we consider to be of low quality.  
+I have excluded any kind of resources that I consider to be of low quality.  
 
 :star: - My favourites
 
@@ -40,6 +40,7 @@ I have excluded any kind of resources that we consider to be of low quality.
 * Hitoshi Harada, CTO at Alpaca - Deep Learning in Finance Talk [[Link]](https://www.youtube.com/watch?v=FoQKCeDuPiY)
 * Prediction Machines - Deep Learning with Python in Finance Talk [[Link]](https://www.youtube.com/watch?v=xvm-M-R2fZY)
 * Master Thesis presentation, Uni of Essex - Analyzing the Limit Order Book, A Deep Learning Approach [[Link]](https://www.youtube.com/watch?v=qxSh2VFmRGw)
+* Tucker Balch - Applying Deep Reinforcement Learning to Trading [[Link]](https://www.youtube.com/watch?v=Pka0DC_P17k)
 
 ## Blogs and content websites
 * :star: Quantstart - Machine Learning for Trading articles [[Link]](https://www.quantstart.com/articles)
@@ -105,7 +106,6 @@ Amin Hedayati et al. - Stock Market Index Prediction Using Artificial Neural Net
 * J.W. Leung, Master Thesis, MIT - Application of Machine Learning: Automated Trading Informed by Event Driven Data [[Link]](https://dspace.mit.edu/bitstream/handle/1721.1/105982/965785890-MIT.pdf?sequence=1)
 * Xiao Ding et al. - Deep Learning for Event-Driven Stock Prediction [[Link]](http://www.aaai.org/ocs/index.php/IJCAI/IJCAI15/paper/download/11031/10986)
 
-
 ## Reinforcement Learning environments
 * :star: TradingGym [[Link]](https://github.com/Yvictor/TradingGym)
 * Trading-Gym [[Link]](https://github.com/thedimlebowski/Trading-Gym)
@@ -114,3 +114,33 @@ Amin Hedayati et al. - Stock Market Index Prediction Using Artificial Neural Net
 
 ## Code
 * marketneutral - pairs trading with ML [[Link]](https://github.com/marketneutral/pairs-trading-with-ML)
+* BlackArbsCEO - Advances in Financial Machine Learning Exercises [[Link]](https://github.com/BlackArbsCEO/Adv_Fin_ML_Exercises)
+* MachineLearningStocks - Using python and scikit-learn to make stock predictions [[Link]](https://github.com/robertmartin8/MachineLearningStocks)
+* AlphaAI - Use unsupervised and supervised learning to predict stocks [[Link]](https://github.com/VivekPa/AlphaAI)
+* SGX-Full-OrderBook-Tick-Data-Trading-Strategy - Providing the solutions for high-frequency trading (HFT) strategies using ML [[Link]](https://github.com/rorysroes/SGX-Full-OrderBook-Tick-Data-Trading-Strategy)
+* NeuralNetworkStocks - Using Python and keras to make stock predictions [[Link]](https://github.com/VivekPa/NeuralNetworkStocks)
+* Stock-Price-Prediction-LSTM - OHLC Average Prediction of Apple Inc. Using LSTM Recurrent Neural Network [[Link]](https://github.com/NourozR/Stock-Price-Prediction-LSTM)
+* SravB - Algorithmic trading using machine learning [[Link]](https://github.com/SravB/Algorithmic-Trading)
+* Flow - High frequency AI based algorithmic trading module [[Link]](https://github.com/yazanobeidi/flow)
+* timestocome - Test-stock-prediction-algorithms [[Link]](https://github.com/timestocome/Test-stock-prediction-algorithms)
+* deepstock - Technical experimentations to beat the stock market using deep learning [[Link]](https://github.com/keon/deepstock)
+* qtrader - Reinforcement Learning for Portfolio Management [[Link]](https://github.com/filangel/qtrader)
+* stockPredictor - Predict stock movement with Machine Learning and Deep Learning algorithms [[Link]](https://github.com/Nazanin1369/stockPredictor)
+* stock_market_reinforcement_learning - Stock market environment using OpenGym with Deep Q-learning and Policy Gradient [[Link]](https://github.com/kh-kim/stock_market_reinforcement_learning)
+* deep-algotrading - deep learning techniques from regression to LSTM using financial data [[Link]](https://github.com/LiamConnell/deep-algotrading)
+* deep_trader - Use reinforcement learning on stock market and agent tries to learn trading [[Link]](https://github.com/deependersingla/deep_trader)
+* Deep-Trading - Algorithmic trading with deep learning experiments [[Link]](https://github.com/Rachnog/Deep-Trading)
+* Deep-Trading - Algorithmic Trading using RNN [[Link]](https://github.com/ha2emnomer/Deep-Trading)
+* Multidimensional-LSTM-BitCoin-Time-Series - Using multidimensional LSTM neural networks to create a forecast for Bitcoin price [[Link]](https://github.com/jaungiers/Multidimensional-LSTM-BitCoin-Time-Series)
+* QLearning_Trading - Learning to trade under the reinforcement learning framework [[Link]](https://github.com/ucaiado/QLearning_Trading)
+* Day-Trading-Application - Use deep learning to make accurate future stock return predictions [[Link]](https://github.com/jbboltz123/Day-Trading-Application)
+* bulbea - Deep Learning based Python Library for Stock Market Prediction and Modelling [[Link]](https://github.com/achillesrasquinha/bulbea)
+* PGPortfolio - source code of "A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem" [[Link]](https://github.com/ZhengyaoJiang/PGPortfolio)
+* Thesis - Reinforcement Learning for Automated Trading [[Link]](https://github.com/pnecchi/Thesis)
+* DQN - Reinforcement Learning for finance [[Link]](https://github.com/jjakimoto/DQN)
+* Deep-Trading-Agent - Deep Reinforcement Learning based Trading Agent for Bitcoin [[Link]](https://github.com/samre12/deep-trading-agent)
+* deep_portfolio - Use Reinforcement Learning and Supervised learning to Optimize portfolio allocation [[Link]](https://github.com/deependersingla/deep_portfolio)
+* Deep-Reinforcement-Learning-in-Stock-Trading - Using deep actor-critic model to learn best strategies in pair trading [[Link]](https://github.com/shenyichen105/Deep-Reinforcement-Learning-in-Stock-Trading)
+* Stock-Price-Prediction-LSTM - OHLC Average Prediction of Apple Inc. Using LSTM Recurrent Neural Network [[Link]](https://github.com/NourozR/Stock-Price-Prediction-LSTM)
+
+
