@@ -65,6 +65,7 @@ The selection of online courses for ML for trading is very poor in my opinion.
 ## Papers
 * :star: James Cumming - An Investigation into the Use of Reinforcement Learning Techniques within the Algorithmic Trading Domain [[Link]](http://www.doc.ic.ac.uk/teaching/distinguished-projects/2015/j.cumming.pdf)
 * :star: Marcos López de Prado - The 10 reasons most Machine Learning Funds fails [[Link]](http://www.smallake.kr/wp-content/uploads/2018/07/SSRN-id3104816.pdf)
+* Zhuoran Xiong et al. - Practical Deep Reinforcement Learning Approach for Stock Trading [[Link]](https://arxiv.org/abs/1811.07522)
 * Gordon Ritter - Machine Learning for Trading [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3015609)
 * J.B. Heaton et al. - Deep Learning for Finance: Deep Portfolios [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2838013)
 * Justin Sirignano et al. - Universal Features of Price Formation in Financial Markets: Perspectives From Deep Learning [[Link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3141294)
