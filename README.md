@@ -17,6 +17,7 @@ I have excluded any kind of resources that I consider to be of low quality.
 * Ali N. Akansu et al. - Financial Signal Processing and Machine Learning [[Link]](https://www.amazon.com/Financial-Signal-Processing-Machine-Learning/dp/1118745671/ref=sr_1_1?s=books&ie=UTF8&qid=1541718070&sr=1-1)
 * David Aronson - Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading [[Link]](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741/ref=sr_1_1?s=books&ie=UTF8&qid=1541974508&sr=1-1&keywords=david+aronson)
 * David Aronson - Statistically Sound Machine Learning for Algorithmic Trading of Financial Instruments [[Link]](https://www.amazon.com/Statistically-Learning-Algorithmic-Financial-Instruments/dp/148950771X/ref=sr_1_3?s=books&ie=UTF8&qid=1541718293&sr=1-3)
+* Ernest P. Chan - Machine Trading: Deploying Computer Algorithms to Conquer the Markets [[Link]](https://www.amazon.co.uk/gp/product/1119219604/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=startupanalyt-21&creative=24630&linkCode=as2&creativeASIN=1119219604&linkId=ce2ca9a67128675e3fcdc9ec9696e2c7)
 
 ## Online series and courses
 The selection of online courses for ML for trading is very poor in my opinion.  
@@ -49,6 +50,8 @@ The selection of online courses for ML for trading is very poor in my opinion.
 * :star: Quantopian - Tutorials and notebooks tagged with Machine Learning [[Link]](https://www.quantopian.com/posts/tag/machine-learning/newest?attachment=notebooks)
 * AAA Quants, Tom Starke Blog [[Link]](http://aaaquants.com/category/blog/)
 * RobotWealth, Kris Longmore Blog [[Link]](https://robotwealth.com/blog/)
+* Blackarbs blog [[Link]](http://www.blackarbs.com/blog/)
+* Hardikp, Hardik Patel blog [[Link]](https://www.hardikp.com/)
 
 ## Interviews
 * :star: Chat with Traders EP042 - Machine learning for algorithmic trading with Bert Mouler [[Link]](https://www.youtube.com/watch?v=i8FNO8r7PaE)
