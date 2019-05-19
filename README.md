@@ -23,6 +23,7 @@ I have excluded any kind of resources that I consider to be of low quality.
 The selection of online courses for ML for trading is very poor in my opinion.  
 
 * Udacity, Georgia Tech - Machine Learning for Trading [[Link]](https://eu.udacity.com/course/machine-learning-for-trading--ud501)
+* Udacity, WorldQuant - Artificial Intelligence for Trading [[Link]](https://eu.udacity.com/course/ai-for-trading--nd880)
 
 * Coursera, NYU - Machine Learning and Reinforcement Learning in Finance Specialization (Weakly related to trading)
   * Coursera, NYU - Guided Tour of Machine Learning in Finance [[Link]](https://www.coursera.org/learn/guided-tour-machine-learning-finance)
@@ -50,6 +51,7 @@ The selection of online courses for ML for trading is very poor in my opinion.
 * :star: Quantopian - Tutorials and notebooks tagged with Machine Learning [[Link]](https://www.quantopian.com/posts/tag/machine-learning/newest?attachment=notebooks)
 * AAA Quants, Tom Starke Blog [[Link]](http://aaaquants.com/category/blog/)
 * RobotWealth, Kris Longmore Blog [[Link]](https://robotwealth.com/blog/)
+* Quantsportal, Jacques Joubert's Blog [[Link]](http://www.quantsportal.com/blog-page/)
 * Blackarbs blog [[Link]](http://www.blackarbs.com/blog/)
 * Hardikp, Hardik Patel blog [[Link]](https://www.hardikp.com/)
 
@@ -120,6 +122,7 @@ Amin Hedayati et al. - Stock Market Index Prediction Using Artificial Neural Net
 ## Code
 * marketneutral - pairs trading with ML [[Link]](https://github.com/marketneutral/pairs-trading-with-ML)
 * BlackArbsCEO - Advances in Financial Machine Learning Exercises [[Link]](https://github.com/BlackArbsCEO/Adv_Fin_ML_Exercises)
+* mlfinlab - Package for Advances in Financial Machine Learning [[Link]](https://github.com/hudson-and-thames)
 * MachineLearningStocks - Using python and scikit-learn to make stock predictions [[Link]](https://github.com/robertmartin8/MachineLearningStocks)
 * AlphaAI - Use unsupervised and supervised learning to predict stocks [[Link]](https://github.com/VivekPa/AlphaAI)
 * SGX-Full-OrderBook-Tick-Data-Trading-Strategy - Providing the solutions for high-frequency trading (HFT) strategies using ML [[Link]](https://github.com/rorysroes/SGX-Full-OrderBook-Tick-Data-Trading-Strategy)
