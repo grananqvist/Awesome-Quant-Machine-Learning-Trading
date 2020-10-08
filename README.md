@@ -44,7 +44,7 @@ The selection of online courses for ML for trading is very poor in my opinion.
 * Prediction Machines - Deep Learning with Python in Finance Talk [[Link]](https://www.youtube.com/watch?v=xvm-M-R2fZY)
 * Master Thesis presentation, Uni of Essex - Analyzing the Limit Order Book, A Deep Learning Approach [[Link]](https://www.youtube.com/watch?v=qxSh2VFmRGw)
 * Tucker Balch - Applying Deep Reinforcement Learning to Trading [[Link]](https://www.youtube.com/watch?v=Pka0DC_P17k)
-
+* Krish Naik - Machine learning tutorials and their Application in Stock Prediction [[Link]](https://www.youtube.com/watch?v=H6du_pfuznE)
 ## Blogs and content websites
 * :star: Quantstart - Machine Learning for Trading articles [[Link]](https://www.quantstart.com/articles)
 * :star: Quantopian - Lecture notebooks on ML-related statistics [[Link]](https://www.quantopian.com/lectures)
