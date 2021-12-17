@@ -5,6 +5,8 @@ I have excluded any kind of resources that I consider to be of low quality.
 
 :star: - My favourites
 
+- [ML-Quant](https://www.ml-quant.com/) - Quant resources from ArXiv (sanity), SSRN, RePec, Journals, Podcasts, Videos, and Blogs.
+
 # Financial Machine Learning
 ## Books
 
