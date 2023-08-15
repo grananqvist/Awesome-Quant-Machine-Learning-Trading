@@ -49,6 +49,7 @@ The selection of online courses for ML for trading is very poor in my opinion.
 * :star: Quantstart - Machine Learning for Trading articles [[Link]](https://www.quantstart.com/articles)
 * :star: Quantopian - Lecture notebooks on ML-related statistics [[Link]](https://www.quantopian.com/lectures)
 * :star: Quantopian - Tutorials and notebooks tagged with Machine Learning [[Link]](https://www.quantopian.com/posts/tag/machine-learning/newest?attachment=notebooks)
+* Synthical, an AI-powered collaborative environment for Research [[Link]](https://synthical.com/)
 * AAA Quants, Tom Starke Blog [[Link]](http://aaaquants.com/category/blog/)
 * RobotWealth, Kris Longmore Blog [[Link]](https://robotwealth.com/blog/)
 * Quantsportal, Jacques Joubert's Blog [[Link]](http://www.quantsportal.com/blog-page/)
