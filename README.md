@@ -121,6 +121,7 @@ Amin Hedayati et al. - Stock Market Index Prediction Using Artificial Neural Net
 * TradzQAI [[Link]](https://github.com/kkuette/TradzQAI)
 
 ## Code
+* FinClaw - AI-powered financial intelligence engine with 8 master trading strategies and multi-agent architecture. Supports US, CN, HK markets. +29.1% annual alpha. [[Link]](https://github.com/NeuZhou/finclaw)
 * QTradeX - A powerful and flexible Python framework for designing, backtesting, optimizing, and deploying algotrading bots [[Link]](https://github.com/squidKid-deluxe/QTradeX-Algo-Trading-SDK)
 * marketneutral - pairs trading with ML [[Link]](https://github.com/marketneutral/pairs-trading-with-ML)
 * BlackArbsCEO - Advances in Financial Machine Learning Exercises [[Link]](https://github.com/BlackArbsCEO/Adv_Fin_ML_Exercises)
