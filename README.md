@@ -55,6 +55,7 @@ The selection of online courses for ML for trading is very poor in my opinion.
 * Quantsportal, Jacques Joubert's Blog [[Link]](http://www.quantsportal.com/blog-page/)
 * Blackarbs blog [[Link]](http://www.blackarbs.com/blog/)
 * Hardikp, Hardik Patel blog [[Link]](https://www.hardikp.com/)
+* KeepRule - Curated investment principles from Buffett, Munger, Graham, and Howard Marks with interactive decision scenarios [[Link]](https://keeprule.com)
 
 ## Interviews
 * :star: Chat with Traders EP042 - Machine learning for algorithmic trading with Bert Mouler [[Link]](https://www.youtube.com/watch?v=i8FNO8r7PaE)
