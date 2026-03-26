@@ -154,3 +154,5 @@ Amin Hedayati et al. - Stock Market Index Prediction Using Artificial Neural Net
 * Stock-Price-Prediction-LSTM - OHLC Average Prediction of Apple Inc. Using LSTM Recurrent Neural Network [[Link]](https://github.com/NourozR/Stock-Price-Prediction-LSTM)
 
 
+
+* TradeSight - Self-hosted AI trading strategy lab with paper trading, overnight strategy tournaments, and 15+ technical indicators. Backtests strategies, runs them live via Alpaca, evolves approaches automatically. [[Link]](https://github.com/rmbell09-lang/tradesight)
