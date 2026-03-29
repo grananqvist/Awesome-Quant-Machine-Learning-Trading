@@ -129,6 +129,7 @@ Amin Hedayati et al. - Stock Market Index Prediction Using Artificial Neural Net
 * AlphaAI - Use unsupervised and supervised learning to predict stocks [[Link]](https://github.com/VivekPa/AlphaAI)
 * SGX-Full-OrderBook-Tick-Data-Trading-Strategy - Providing the solutions for high-frequency trading (HFT) strategies using ML [[Link]](https://github.com/rorysroes/SGX-Full-OrderBook-Tick-Data-Trading-Strategy)
 * NeuralNetworkStocks - Using Python and keras to make stock predictions [[Link]](https://github.com/VivekPa/NeuralNetworkStocks)
+* TradeSight - Python paper trading system with AI-powered strategy tournament, 15+ technical indicators, multi-market scanning, and Alpaca integration [[Link]](https://github.com/rmbell09-lang/tradesight)
 * Stock-Price-Prediction-LSTM - OHLC Average Prediction of Apple Inc. Using LSTM Recurrent Neural Network [[Link]](https://github.com/NourozR/Stock-Price-Prediction-LSTM)
 * SravB - Algorithmic trading using machine learning [[Link]](https://github.com/SravB/Algorithmic-Trading)
 * Flow - High frequency AI based algorithmic trading module [[Link]](https://github.com/yazanobeidi/flow)
