@@ -122,6 +122,7 @@ Amin Hedayati et al. - Stock Market Index Prediction Using Artificial Neural Net
 
 ## Code
 * QTradeX - A powerful and flexible Python framework for designing, backtesting, optimizing, and deploying algotrading bots [[Link]](https://github.com/squidKid-deluxe/QTradeX-Algo-Trading-SDK)
+* TradeSight - AI-powered trading intelligence platform with paper trading, 15+ technical indicators, strategy optimization tournaments, and Polymarket prediction market scanning [[Link]](https://github.com/rmbell09-lang/tradesight)
 * marketneutral - pairs trading with ML [[Link]](https://github.com/marketneutral/pairs-trading-with-ML)
 * BlackArbsCEO - Advances in Financial Machine Learning Exercises [[Link]](https://github.com/BlackArbsCEO/Adv_Fin_ML_Exercises)
 * mlfinlab - Package for Advances in Financial Machine Learning [[Link]](https://github.com/hudson-and-thames)
