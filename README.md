@@ -121,6 +121,7 @@ Amin Hedayati et al. - Stock Market Index Prediction Using Artificial Neural Net
 * TradzQAI [[Link]](https://github.com/kkuette/TradzQAI)
 
 ## Code
+* Orallexa - AI trading OS with 9 ML models (RF, XGBoost, EMAformer, DDPM Diffusion, PPO RL, GNN, LR) + adversarial Bull/Bear/Judge debate via Claude AI. 698 tests, walk-forward evaluation, real-time dashboard. [[Link]](https://github.com/alex-jb/orallexa-ai-trading-agent)
 * QTradeX - A powerful and flexible Python framework for designing, backtesting, optimizing, and deploying algotrading bots [[Link]](https://github.com/squidKid-deluxe/QTradeX-Algo-Trading-SDK)
 * marketneutral - pairs trading with ML [[Link]](https://github.com/marketneutral/pairs-trading-with-ML)
 * BlackArbsCEO - Advances in Financial Machine Learning Exercises [[Link]](https://github.com/BlackArbsCEO/Adv_Fin_ML_Exercises)
