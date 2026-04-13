@@ -113,6 +113,7 @@ Amin Hedayati et al. - Stock Market Index Prediction Using Artificial Neural Net
 * Ziniu Hu et al. - Listening to Chaotic Whispers: A Deep Learning Framework for News-oriented Stock Trend Prediction [[Link]](https://arxiv.org/abs/1712.02136v1)
 * J.W. Leung, Master Thesis, MIT - Application of Machine Learning: Automated Trading Informed by Event Driven Data [[Link]](https://dspace.mit.edu/bitstream/handle/1721.1/105982/965785890-MIT.pdf?sequence=1)
 * Xiao Ding et al. - Deep Learning for Event-Driven Stock Prediction [[Link]](http://www.aaai.org/ocs/index.php/IJCAI/IJCAI15/paper/download/11031/10986)
+* Adanos Market Sentiment API - Cross-platform stock sentiment API combining Reddit, X/Twitter and Polymarket signals for event-driven and sentiment-aware trading research [[Link]](https://api.adanos.org/docs/)
 
 ## Reinforcement Learning environments
 * :star: TradingGym [[Link]](https://github.com/Yvictor/TradingGym)
@@ -152,5 +153,4 @@ Amin Hedayati et al. - Stock Market Index Prediction Using Artificial Neural Net
 * deep_portfolio - Use Reinforcement Learning and Supervised learning to Optimize portfolio allocation [[Link]](https://github.com/deependersingla/deep_portfolio)
 * Deep-Reinforcement-Learning-in-Stock-Trading - Using deep actor-critic model to learn best strategies in pair trading [[Link]](https://github.com/shenyichen105/Deep-Reinforcement-Learning-in-Stock-Trading)
 * Stock-Price-Prediction-LSTM - OHLC Average Prediction of Apple Inc. Using LSTM Recurrent Neural Network [[Link]](https://github.com/NourozR/Stock-Price-Prediction-LSTM)
-
 
