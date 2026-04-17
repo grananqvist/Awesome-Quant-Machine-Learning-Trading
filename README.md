@@ -148,6 +148,7 @@ Amin Hedayati et al. - Stock Market Index Prediction Using Artificial Neural Net
 * PGPortfolio - source code of "A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem" [[Link]](https://github.com/ZhengyaoJiang/PGPortfolio)
 * Thesis - Reinforcement Learning for Automated Trading [[Link]](https://github.com/pnecchi/Thesis)
 * DQN - Reinforcement Learning for finance [[Link]](https://github.com/jjakimoto/DQN)
+* cipher-layer-k - Solo-dev Solana autonomous trading module: 7 P0 trading primitives (Jupiter client, Jito bundle submitter, isolated signer with program-id allowlist, 5-trip emergency halt, Sharpe/DD/win-rate PnL tracker) with 48/48 tests green in paper-trade mode [[Link]](https://github.com/cryptomotifs/cipher-layer-k)
 * Deep-Trading-Agent - Deep Reinforcement Learning based Trading Agent for Bitcoin [[Link]](https://github.com/samre12/deep-trading-agent)
 * deep_portfolio - Use Reinforcement Learning and Supervised learning to Optimize portfolio allocation [[Link]](https://github.com/deependersingla/deep_portfolio)
 * Deep-Reinforcement-Learning-in-Stock-Trading - Using deep actor-critic model to learn best strategies in pair trading [[Link]](https://github.com/shenyichen105/Deep-Reinforcement-Learning-in-Stock-Trading)
