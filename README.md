@@ -149,6 +149,7 @@ Amin Hedayati et al. - Stock Market Index Prediction Using Artificial Neural Net
 * Thesis - Reinforcement Learning for Automated Trading [[Link]](https://github.com/pnecchi/Thesis)
 * DQN - Reinforcement Learning for finance [[Link]](https://github.com/jjakimoto/DQN)
 * Deep-Trading-Agent - Deep Reinforcement Learning based Trading Agent for Bitcoin [[Link]](https://github.com/samre12/deep-trading-agent)
+* [DeepAlpha] - AI crypto trading bot with 70.9% walk-forward validated accuracy using LightGBM + XGBoost ensemble [[Link]](https://github.com/stefanoviana/deepalpha)
 * deep_portfolio - Use Reinforcement Learning and Supervised learning to Optimize portfolio allocation [[Link]](https://github.com/deependersingla/deep_portfolio)
 * Deep-Reinforcement-Learning-in-Stock-Trading - Using deep actor-critic model to learn best strategies in pair trading [[Link]](https://github.com/shenyichen105/Deep-Reinforcement-Learning-in-Stock-Trading)
 * Stock-Price-Prediction-LSTM - OHLC Average Prediction of Apple Inc. Using LSTM Recurrent Neural Network [[Link]](https://github.com/NourozR/Stock-Price-Prediction-LSTM)
