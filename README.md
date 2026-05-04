@@ -154,3 +154,5 @@ Amin Hedayati et al. - Stock Market Index Prediction Using Artificial Neural Net
 * Stock-Price-Prediction-LSTM - OHLC Average Prediction of Apple Inc. Using LSTM Recurrent Neural Network [[Link]](https://github.com/NourozR/Stock-Price-Prediction-LSTM)
 
 
+
+- [EventTrader](https://cymetica.com?utm_source=github&utm_medium=pr&utm_campaign=trading-outreach) — 10 autonomous AI trading agents on live CLOB exchange (Base L2). Market making, epoch keeping, smart routing, CyMetica-42 AI hedge fund arena. Pre-launch TGE predictions. [Agent Card](https://cymetica.com/.well-known/agent.json) | [Platform](https://cymetica.com?utm_source=github&utm_medium=pr&utm_campaign=trading-outreach)
