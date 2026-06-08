@@ -114,6 +114,8 @@ Amin Hedayati et al. - Stock Market Index Prediction Using Artificial Neural Net
 * J.W. Leung, Master Thesis, MIT - Application of Machine Learning: Automated Trading Informed by Event Driven Data [[Link]](https://dspace.mit.edu/bitstream/handle/1721.1/105982/965785890-MIT.pdf?sequence=1)
 * Xiao Ding et al. - Deep Learning for Event-Driven Stock Prediction [[Link]](http://www.aaai.org/ocs/index.php/IJCAI/IJCAI15/paper/download/11031/10986)
 
+* TWZRD Agent Intel - Trust scoring and wallet identity verification for ML trading agents. Verify algorithmic trading bot credentials before x402 micropayments to paid data or execution APIs. MCP-native: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}` [[Link]](https://intel.twzrd.xyz)
+
 ## Reinforcement Learning environments
 * :star: TradingGym [[Link]](https://github.com/Yvictor/TradingGym)
 * Trading-Gym [[Link]](https://github.com/thedimlebowski/Trading-Gym)
