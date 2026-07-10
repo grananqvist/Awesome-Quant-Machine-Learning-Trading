@@ -152,5 +152,6 @@ Amin Hedayati et al. - Stock Market Index Prediction Using Artificial Neural Net
 * deep_portfolio - Use Reinforcement Learning and Supervised learning to Optimize portfolio allocation [[Link]](https://github.com/deependersingla/deep_portfolio)
 * Deep-Reinforcement-Learning-in-Stock-Trading - Using deep actor-critic model to learn best strategies in pair trading [[Link]](https://github.com/shenyichen105/Deep-Reinforcement-Learning-in-Stock-Trading)
 * Stock-Price-Prediction-LSTM - OHLC Average Prediction of Apple Inc. Using LSTM Recurrent Neural Network [[Link]](https://github.com/NourozR/Stock-Price-Prediction-LSTM)
+* BDE Score™ - AI-Powered Multi-Market Stock Analysis with transparent multi-factor scoring for 73 stocks across US, HK, and A-share markets. EU AI Act Art.50 compliant. [[Link]](https://github.com/hbhqq9/bde-score)
 
 
