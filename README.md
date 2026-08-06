@@ -121,6 +121,7 @@ Amin Hedayati et al. - Stock Market Index Prediction Using Artificial Neural Net
 * TradzQAI [[Link]](https://github.com/kkuette/TradzQAI)
 
 ## Code
+* ml-quant-trading - End-to-end PyTorch stack for multi-factor research with 213 factors, bias correction, portfolio optimization, vectorized backtesting, and public-data validation [[Link]](https://github.com/initial-d/ml-quant-trading)
 * QTradeX - A powerful and flexible Python framework for designing, backtesting, optimizing, and deploying algotrading bots [[Link]](https://github.com/squidKid-deluxe/QTradeX-Algo-Trading-SDK)
 * marketneutral - pairs trading with ML [[Link]](https://github.com/marketneutral/pairs-trading-with-ML)
 * BlackArbsCEO - Advances in Financial Machine Learning Exercises [[Link]](https://github.com/BlackArbsCEO/Adv_Fin_ML_Exercises)
@@ -152,5 +153,4 @@ Amin Hedayati et al. - Stock Market Index Prediction Using Artificial Neural Net
 * deep_portfolio - Use Reinforcement Learning and Supervised learning to Optimize portfolio allocation [[Link]](https://github.com/deependersingla/deep_portfolio)
 * Deep-Reinforcement-Learning-in-Stock-Trading - Using deep actor-critic model to learn best strategies in pair trading [[Link]](https://github.com/shenyichen105/Deep-Reinforcement-Learning-in-Stock-Trading)
 * Stock-Price-Prediction-LSTM - OHLC Average Prediction of Apple Inc. Using LSTM Recurrent Neural Network [[Link]](https://github.com/NourozR/Stock-Price-Prediction-LSTM)
-
 
