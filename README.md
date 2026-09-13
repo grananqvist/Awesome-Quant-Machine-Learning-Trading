@@ -121,6 +121,7 @@ Amin Hedayati et al. - Stock Market Index Prediction Using Artificial Neural Net
 * TradzQAI [[Link]](https://github.com/kkuette/TradzQAI)
 
 ## Code
+* QuantRank500 - out-of-sample proving ground for a model: predictions are hash-committed before the open and settled automatically against exchange data, so a track record cannot be backfitted after the fact [[Link]](https://github.com/RusUsf/quantrank500)
 * QTradeX - A powerful and flexible Python framework for designing, backtesting, optimizing, and deploying algotrading bots [[Link]](https://github.com/squidKid-deluxe/QTradeX-Algo-Trading-SDK)
 * marketneutral - pairs trading with ML [[Link]](https://github.com/marketneutral/pairs-trading-with-ML)
 * BlackArbsCEO - Advances in Financial Machine Learning Exercises [[Link]](https://github.com/BlackArbsCEO/Adv_Fin_ML_Exercises)
