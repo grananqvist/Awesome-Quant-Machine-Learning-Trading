@@ -130,6 +130,7 @@ Amin Hedayati et al. - Stock Market Index Prediction Using Artificial Neural Net
 * SGX-Full-OrderBook-Tick-Data-Trading-Strategy - Providing the solutions for high-frequency trading (HFT) strategies using ML [[Link]](https://github.com/rorysroes/SGX-Full-OrderBook-Tick-Data-Trading-Strategy)
 * NeuralNetworkStocks - Using Python and keras to make stock predictions [[Link]](https://github.com/VivekPa/NeuralNetworkStocks)
 * Stock-Price-Prediction-LSTM - OHLC Average Prediction of Apple Inc. Using LSTM Recurrent Neural Network [[Link]](https://github.com/NourozR/Stock-Price-Prediction-LSTM)
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 * SravB - Algorithmic trading using machine learning [[Link]](https://github.com/SravB/Algorithmic-Trading)
 * Flow - High frequency AI based algorithmic trading module [[Link]](https://github.com/yazanobeidi/flow)
 * timestocome - Test-stock-prediction-algorithms [[Link]](https://github.com/timestocome/Test-stock-prediction-algorithms)
