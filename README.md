@@ -121,6 +121,7 @@ Amin Hedayati et al. - Stock Market Index Prediction Using Artificial Neural Net
 * TradzQAI [[Link]](https://github.com/kkuette/TradzQAI)
 
 ## Code
+* FXMacroData - Macroeconomic and FX data API + MCP server with central bank announcements and normalized indicators for 22 currencies [[Link]](https://github.com/fxmacrodata/fxmacrodata)
 * QTradeX - A powerful and flexible Python framework for designing, backtesting, optimizing, and deploying algotrading bots [[Link]](https://github.com/squidKid-deluxe/QTradeX-Algo-Trading-SDK)
 * marketneutral - pairs trading with ML [[Link]](https://github.com/marketneutral/pairs-trading-with-ML)
 * BlackArbsCEO - Advances in Financial Machine Learning Exercises [[Link]](https://github.com/BlackArbsCEO/Adv_Fin_ML_Exercises)
