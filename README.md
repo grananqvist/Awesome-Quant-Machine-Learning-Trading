@@ -153,4 +153,4 @@ Amin Hedayati et al. - Stock Market Index Prediction Using Artificial Neural Net
 * Deep-Reinforcement-Learning-in-Stock-Trading - Using deep actor-critic model to learn best strategies in pair trading [[Link]](https://github.com/shenyichen105/Deep-Reinforcement-Learning-in-Stock-Trading)
 * Stock-Price-Prediction-LSTM - OHLC Average Prediction of Apple Inc. Using LSTM Recurrent Neural Network [[Link]](https://github.com/NourozR/Stock-Price-Prediction-LSTM)
 
-
+- **[QWK ($QWK) Autonomous MEV & Quant Finance Skill / MCP](https://github.com/chase-tqg/QWIK-MEV-Core)** - Autonomous Web3 DeFi & quantitative MEV infrastructure agent, `SKILL.md`, EIP-1153 transient-storage `AtomicArb.sol`, 0%-fee Morpho Blue flash-loan callback (`QWKZeroCapitalMorphoArb.sol`), and MCP server (`verify_enterprise_backing`, `get_escrow_contract_details`, `generate_seed_deposit_tx`) with on-chain Merkle commitments (`0x1Cc436b4D9316ee623CFeB760C44F84c9bD9C20A`) for $400,000+ in project-reported Google Cloud, NVIDIA, and Cloudflare resources.
