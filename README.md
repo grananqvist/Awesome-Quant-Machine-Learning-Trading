@@ -53,6 +53,7 @@ The selection of online courses for ML for trading is very poor in my opinion.
 * AAA Quants, Tom Starke Blog [[Link]](http://aaaquants.com/category/blog/)
 * RobotWealth, Kris Longmore Blog [[Link]](https://robotwealth.com/blog/)
 * Quantsportal, Jacques Joubert's Blog [[Link]](http://www.quantsportal.com/blog-page/)
+* quant.observer - Curated directory of quant trading tools, data sources, and frontier research for systematic traders and researchers. [[Link]](https://quant.observer/)
 * Blackarbs blog [[Link]](http://www.blackarbs.com/blog/)
 * Hardikp, Hardik Patel blog [[Link]](https://www.hardikp.com/)
 
